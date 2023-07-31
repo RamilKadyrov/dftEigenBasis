@@ -4,6 +4,5 @@
 
 /.vs
 /dftEigen/x64
-/dtfTest/x64
+/Tests/x64
 /x64
-/dtfTest/~AutoRecover.dtfTest.vcxproj

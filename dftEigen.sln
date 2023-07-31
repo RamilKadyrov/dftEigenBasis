@@ -5,7 +5,7 @@ VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dftEigen", "dftEigen\dftEigen.vcxproj", "{A0C72DDE-976D-4C69-AE93-FD6698548D9D}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dtfTest", "dtfTest\dtfTest.vcxproj", "{DE8577ED-E50A-47F9-BB73-0B13ED76C72C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tests", "Tests\Tests.vcxproj", "{DE8577ED-E50A-47F9-BB73-0B13ED76C72C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
