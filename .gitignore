@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/dftEigen/x64
+/dtfTest/x64
+/x64
+/dtfTest/~AutoRecover.dtfTest.vcxproj

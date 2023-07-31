@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dftEigen", "dftEigen\dftEigen.vcxproj", "{A0C72DDE-976D-4C69-AE93-FD6698548D9D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dtfTest", "dtfTest\dtfTest.vcxproj", "{DE8577ED-E50A-47F9-BB73-0B13ED76C72C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0C72DDE-976D-4C69-AE93-FD6698548D9D}.Debug|x64.ActiveCfg = Debug|x64
+		{A0C72DDE-976D-4C69-AE93-FD6698548D9D}.Debug|x64.Build.0 = Debug|x64
+		{A0C72DDE-976D-4C69-AE93-FD6698548D9D}.Release|x64.ActiveCfg = Release|x64
+		{A0C72DDE-976D-4C69-AE93-FD6698548D9D}.Release|x64.Build.0 = Release|x64
+		{DE8577ED-E50A-47F9-BB73-0B13ED76C72C}.Debug|x64.ActiveCfg = Debug|x64
+		{DE8577ED-E50A-47F9-BB73-0B13ED76C72C}.Debug|x64.Build.0 = Debug|x64
+		{DE8577ED-E50A-47F9-BB73-0B13ED76C72C}.Release|x64.ActiveCfg = Release|x64
+		{DE8577ED-E50A-47F9-BB73-0B13ED76C72C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B7A09F8-331C-4FC3-A0EC-BA94779843A7}
+	EndGlobalSection
+EndGlobal
