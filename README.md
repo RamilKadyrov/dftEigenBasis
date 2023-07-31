@@ -1,6 +1,6 @@
 # Eigenbasis of the Discrete Fourier Transform #
 
-A C library to generate eigen vector of the Discrete Fourier Transform.
+A C library to generate eigen vectors of the Discrete Fourier Transform.
 
 Based on the article and code from
 
